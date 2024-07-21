@@ -1,3 +1,3 @@
 # WiDS
 
-A repository for WiDS datathon-related materials. 
+Repository for WiDS datathon-related materials. 
